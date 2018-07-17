@@ -23,7 +23,7 @@ public class SolrManager {
 	 * @throws Exception 
 	 * @throws SolrServerException 
 	 */
-//
+//这是最新的一次提交
 	@Test
 	public void testadd() throws Exception {
 		SolrServer solrserver=new HttpSolrServer("http://localhost:8080/solr/collection1");
